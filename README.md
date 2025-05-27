@@ -1,4 +1,5 @@
 Article Management System
+
 A Python-based system for managing relationships between Authors, Articles, and Magazines using SQLite database.
 
 Features
